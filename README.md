@@ -2,12 +2,6 @@
 
 An AI-powered educational platform that identifies students' underlying conceptual weaknesses through diagnostic assessments, prerequisite knowledge graphs, explainable analysis, and personalized micro-learning.
 
-**Hackathon:** MITK AI VISION 24H  
-**Problem Statement:** PS-05  
-**Domain:** AI/ML — Educational Technology  
-**Target Users:** Students and Teachers  
-**Subject:** Mathematics — Grades 6–8
-
 ---
 
 ## 🎯 Problem Statement
